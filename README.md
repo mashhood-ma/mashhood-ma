@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mashhood!
 - 👀 I’m interested in front-end programming.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning next.js
 - 📫 How to reach me mashhood1388@gmail.com
 
 <!---
