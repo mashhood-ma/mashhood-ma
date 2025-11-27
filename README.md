@@ -26,17 +26,18 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there, i'm Mashhood 👋</h1>
 
 ###
+### 👨‍💻 About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
+I’m a Front-end Developer focused on building fast, clean, and scalable web applications.  
+I work mainly with **React, Next.js, TypeScript**, and **TailwindCSS**, and I’m always improving my craft by diving deeper into modern frontend architecture and real-world problem-solving.
 
-###
-
-<p align="left">I'm Mashhood from Iran<br><br>- 🔭 I’m currently working on Dana App<br><br>- 👯 I’m looking to collaborate on Open source projects<br><br>- 💬 Ask me about React | JS | TS<br><br>- 📫 How to reach me mashhood1388@gmail.com</p>
-
-###
+- 🚀 Currently building **TS | JS apps**  
+- 🤝 Open to collaborating on **open-source** and impactful projects  
+- 💡 Ask me about **React, Next.js, TypeScript**, and performance optimization  
+- 📬 Contact: **mashhood1388@gmail.com**
 
 <h3 align="center">🛠 Language and tools 🛠</h3>
 
