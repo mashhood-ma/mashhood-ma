@@ -31,13 +31,16 @@
 ###
 ### 👨‍💻 About Me
 
-I’m a Front-end Developer focused on building fast, clean, and scalable web applications.  
-I work mainly with **React, Next.js, TypeScript**, and **TailwindCSS**, and I’m always improving my craft by diving deeper into modern frontend architecture and real-world problem-solving.
+I'm a Full‑Stack Web Developer focused on building modern, scalable, and high‑performance web applications.
+On the frontend, I work mainly with React, Next.js, TypeScript, and TailwindCSS to create smooth and responsive user experiences.
+On the backend, I build secure and maintainable systems using Laravel, PHP, MySQL, and Redis.
+I care deeply about clean architecture, performance optimization, developer experience, and writing maintainable code.
 
-- 🚀 Currently building **TS | JS apps**  
-- 🤝 Open to collaborating on **open-source** and impactful projects  
-- 💡 Ask me about **React, Next.js, TypeScript**, and performance optimization  
-- 📬 Contact: **mashhood1388@gmail.com**
+- 🚀 Building modern Full‑Stack applications
+- ⚛️ Frontend focused on React, Next.js, and TypeScript
+- ⚙️ Backend development with Laravel ecosystem
+- 🧠 Interested in scalable architectures and performance optimization
+- 🤝 Open to collaboration and open-source projects
 
 <h3 align="center">🛠 Language and tools 🛠</h3>
 
@@ -48,11 +51,21 @@ I work mainly with **React, Next.js, TypeScript**, and **TailwindCSS**, and I’
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"/>
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/filament/FFAA00" height="40" alt="filament logo"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo"/>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
   <img width="12" />
