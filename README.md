@@ -65,8 +65,6 @@ I care deeply about clean architecture, performance optimization, developer expe
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo"/>
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
